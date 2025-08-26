@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-BTRP-0.1";
 const contentToCache = [
-    "Build/build.loader.js",
-    "Build/build.framework.js.gz",
-    "Build/build.data.gz",
-    "Build/build.wasm.gz",
+    "Build/BTRP_webgl.loader.js",
+    "Build/BTRP_webgl.framework.js.unityweb",
+    "Build/BTRP_webgl.data.unityweb",
+    "Build/BTRP_webgl.wasm.unityweb",
     "TemplateData/style.css"
 
 ];
